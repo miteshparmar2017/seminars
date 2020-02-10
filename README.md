@@ -1,0 +1,2 @@
+# seminars
+Practice Git Tutorials
